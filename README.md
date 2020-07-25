@@ -126,4 +126,20 @@ This project was written and is maintained by the following individuals:
 * Jason Belk <jabelk@cisco.com>
 
 ## URLs
-https://github.com/NSO-developer
+https://github.com/NSO-developer  
+https://developer.cisco.com/codeexchange/github/repo/NSO-developer/cisco-nso-postman  
+https://devnetsandbox.cisco.com/RM/Diagram/Index/43964e62-a13c-4929-bde7-a2f68ad6b27c?diagramType=Topology  
+https://developer.cisco.com/docs/nso/#!getting-nso/getting-nso  
+https://developer.cisco.com/site/nso/  
+http://blog.jonascollen.se/category/scripts/  
+https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/postman-for-Cisco-Crosswork  
+NSO Kubernetes Lab  
+https://community.cisco.com/t5/nso-developer-hub-documents/nso-kubernetes-lab/ta-p/3741469  
+https://github.com/itbj/postman-for-Cisco-Crosswork  
+http://shogokobayashi.com/2019/03/26/cisco-nso-create-service/  
+https://xrdocs.io/telemetry/tutorials/2016-07-21-configuring-model-driven-telemetry-mdt/  
+https://github.com/YangModels/yang/tree/master/vendor/cisco/xr  
+http://yang.ciscolive.com/pod0/labs/lab8/lab8-m1  
+https://content.cisco.com/chapter.sjs?uri=/searchable/chapter/content/en/us/td/docs/iosxr/ncs5500/telemetry/70x/b-telemetry-cg-ncs5500-70x/b-telemetry-cg-ncs5500-70x_chapter_011.html.xml  
+https://github.com/YangModels/yang  
+
