@@ -142,4 +142,6 @@ https://github.com/YangModels/yang/tree/master/vendor/cisco/xr
 http://yang.ciscolive.com/pod0/labs/lab8/lab8-m1  
 https://content.cisco.com/chapter.sjs?uri=/searchable/chapter/content/en/us/td/docs/iosxr/ncs5500/telemetry/70x/b-telemetry-cg-ncs5500-70x/b-telemetry-cg-ncs5500-70x_chapter_011.html.xml  
 https://github.com/YangModels/yang  
+New install NSO and Connect with XR by CLI/Netconf NED(**Frank Zhao Blog**)  
+http://www.zhaocs.info/new-install-nso-and-connect-with-xr-by-cli-netconf-ned.html
 
