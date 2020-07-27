@@ -125,7 +125,7 @@ This project was written and is maintained by the following individuals:
 
 * Jason Belk <jabelk@cisco.com>
 
-## URLs
+## URLs :moyai:  
 https://github.com/NSO-developer  
 https://developer.cisco.com/codeexchange/github/repo/NSO-developer/cisco-nso-postman  
 https://devnetsandbox.cisco.com/RM/Diagram/Index/43964e62-a13c-4929-bde7-a2f68ad6b27c?diagramType=Topology  
